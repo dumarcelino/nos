@@ -1,7 +1,7 @@
 # nos
 NOS - Nitro Open Scritps
-
-   ░█▀█░█▀█░█▀▀  Nitro
-   ░█░█░█░█░▀▀█  Open
-   ░▀░▀░▀▀▀░▀▀▀  Scritpts
+ <br>
+   ░█▀█░█▀█░█▀▀  Nitro <br>
+   ░█░█░█░█░▀▀█  Open <br>
+   ░▀░▀░▀▀▀░▀▀▀  Scritpts <br>
 
