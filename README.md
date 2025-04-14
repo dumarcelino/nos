@@ -1,4 +1,4 @@
-# nos
+# NOS
 NOS - Nitro Open Scritps
  <br>
    ░█▀█░█▀█░█▀▀  Nitro <br>
